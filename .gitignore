@@ -1,0 +1,21 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+
+## Rider / VS
+.vs/
+.idea/
+*.DotSettings.user
+
+## Build output
+publish/
+installer/Output/
+
+## OS
+Thumbs.db
+.DS_Store
+
+## DevBar runtime data (local settings/logs, not source)
+**/bin/DevBar/appsettings.local.json

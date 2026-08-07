@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DevBar.Cli/DevBar.Cli.csproj" />
+    <Project Path="src/DevBar.Core/DevBar.Core.csproj" />
+    <Project Path="src/DevBar/DevBar.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DevBar.Core.Tests/DevBar.Core.Tests.csproj" />
+  </Folder>
+</Solution>
